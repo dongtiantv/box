@@ -103,7 +103,7 @@
         {
  
            
-        l"key": "新腾极4k",
+      "key": "新腾极4k",
       "name": "腾讯4K",
       "type": 3,
       "api": "./lib/drpy2.min.js",
@@ -178,30 +178,7 @@
       }
     },
     {
-      "key": "火云",
-      "name": "火云4K",
-      "type": 3,
-      "api": "./py/火云.js"
-    },
-    {
-      "key": "山楂",
-      "name": "山楂4K",
-      "type": 3,
-      "api": "./py/山楂.py"
-    },
-  {
-  "key": "bubu",
-  "name": "布布4K",
-  "type": 3,
-  "api": "./py/布布.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "changeable": 1,
-  "ext": {
-    "site": "https://bubutv.top,https://bbys.app,https://www.bbys.app"
-  }
-},
+    
 {
       "key": "枫叶影视",
       "name": "枫叶4K",
